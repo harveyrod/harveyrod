@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular, JS and Java.
 - 💞️ I’m looking to collaborate with teams and companies.
 - 📫 How to reach me : harveyrod@hotmail.com
-	![WowGIF](https://user-images.githubusercontent.com/62621181/145232699-b697533b-68eb-49b9-9ff0-a588e9022e36.gif)
+
 
 
 <!---
