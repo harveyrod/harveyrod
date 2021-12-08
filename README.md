@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rodrigo
+- 👋 <strong> Hi, I’m Rodrigo <strong>
 - 👀 I’m interested in front and back-end developing!
 - 🌱 I’m currently learning Angular, JS and Java.
 - 💞️ I’m looking to collaborate with teams and companies.
