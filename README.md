@@ -1,7 +1,7 @@
 - 👋 <strong> Hi, I’m Rodrigo <strong>
-- 👀 I’m interested in front and back-end developing!
+- 👀 I’m interested in front and backend developing!
 - 🌱 I’m currently learning Angular, JS and Java.
-- 💞️ I’m looking to collaborate with teams and companies.
+- 💞️ I’m looking forward to collaborate with teams and companies.
 - 📫 How to reach me : harveyrod@hotmail.com
   
 <div align="left">
