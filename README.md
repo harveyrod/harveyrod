@@ -1,6 +1,6 @@
 - 👋 <strong> Hi, I’m Rodrigo <strong>
-- 👀 I’m interested in front and backend developing!
-- 🌱 I’m currently learning Angular, JS and Java.
+- 👀 I’m interested in Front-end and Data Analitics.
+- 🌱 I’m currently learning JavaScript, Bootstrap, Python, Data.
 - 💞️ I’m looking forward to collaborate with teams and companies.
 - 📫 How to reach me : harveyrod@hotmail.com
   
